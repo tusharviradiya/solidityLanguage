@@ -1,7 +1,7 @@
 # solidity language
 
 # IDE
-- 
+- in this we use remix ide 
 
 # Compilation process
 - .sol file 
@@ -14,3 +14,7 @@
 - Mainnet and testnet : 
 
 # Solidity language
+
+#### what is solidity
+- solidity is a object orianted programming language
+- (OOP) is a programming paradigm that organizes software design around data, or objects, rather than functions and logic.r
